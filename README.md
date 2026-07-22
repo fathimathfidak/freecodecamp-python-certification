@@ -1,12 +1,12 @@
 # FreeCodeCamp Python Certification
 
-Welcome to my **FreeCodeCamp Scientific Computing with Python** repository.
+Welcome to my **FreeCodeCamp Python Certification** repository.
 
-This repository contains my solutions, practice exercises, coding challenges, and projects completed while working through the **FreeCodeCamp Scientific Computing with Python Certification**. It serves as a record of my learning journey and demonstrates my understanding of Python programming fundamentals through hands-on implementation.
+This repository contains my solutions, practice exercises, coding challenges, and projects completed while working through the **FreeCodeCamp Python Certification**. It serves as a record of my learning journey and demonstrates my understanding of Python programming fundamentals through hands-on implementation.
 
 ## About
 
-The FreeCodeCamp Scientific Computing with Python Certification provides practical experience in Python programming, covering core concepts, problem-solving techniques, and real-world programming practices.
+The FreeCodeCamp Python Certification provides practical experience in Python programming, covering core concepts, problem-solving techniques, and real-world programming practices.
 
 ## Topics Covered
 
@@ -64,14 +64,14 @@ freecodecamp-python-certification/
 ## Learning Platform
 
 - **Platform:** FreeCodeCamp
-- **Certification:** Scientific Computing with Python
+- **Certification:** Python Certification
 - **Language:** Python 3
 
 ## Author
 
-**Fida K**
+**Fathimath Fida K**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/fathimathfidak
 
 ---
 
